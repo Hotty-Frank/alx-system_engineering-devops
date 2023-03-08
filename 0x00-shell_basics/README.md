@@ -1,1 +1,1 @@
-ls -la . ../boot
+rm /tmp/my_first_directory/betty
