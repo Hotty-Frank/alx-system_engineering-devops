@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -na 
+cd /tmp  mkdir my_first_directory 
