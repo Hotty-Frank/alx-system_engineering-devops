@@ -1,2 +1,2 @@
 #!/bin/bash Enables the file to be in the programmes path for execution.
-groups This command all the groups am in as a user'
+chown This command allow one to change ownership of file from one user to another
