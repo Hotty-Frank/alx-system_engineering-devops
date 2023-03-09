@@ -1,1 +1,1 @@
--s /bin/ls __ls __
+ln -s /bin/ls __ls __
