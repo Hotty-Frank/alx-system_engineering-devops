@@ -1,1 +1,1 @@
-rm -i /tmp/my_first_directory
+rm -r /tmp/my_first_directory
