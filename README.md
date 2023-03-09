@@ -1,1 +1,2 @@
-This repo expounds more on shell basics.
+#!/bin/bash
+The Repo contains my practical tasks
