@@ -1,2 +1,2 @@
-echo to display send confused emoji to the terminal as output
-\is used to ignore each special character and ensuring the emoji is intact
+cat is used to display content of a file 
+the dot is for even hidden content.
